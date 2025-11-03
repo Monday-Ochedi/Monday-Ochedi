@@ -77,9 +77,9 @@ I'm eager to leverage my expertise and passion in technology and data science in
   consequently elevating data accuracy by 25%; worked directly with cross-functional teams 
   designing interactive dashboards.
 
-+ **Data Analyst**
-  <p>***MeriSkill – Noida, Uttar Pradesh***</p>
-  <p>*January 2024 – February 2024*</p>
+**Data Analyst**
+  ***MeriSkill – Noida, Uttar Pradesh***
+  *January 2024 – February 2024*
   - Conducted data analysis on Sales, HR Analytics, and Diabetes Prediction datasets to uncover 
   trends, improve forecasting accuracy, and drive data-informed decisions. 
   - Utilized Excel, Power BI, and Python to clean and process 500,000+ data points, develop a 
