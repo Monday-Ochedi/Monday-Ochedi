@@ -18,7 +18,7 @@ Data Enthusiast | Python, SQL, Power BI, ML | Building intelligent data solution
   <a href="https://www.facebook.com/ochedi.monday.75/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
   </a>
-  <a href="http://whatsapp.me/+2348168794576" target="_blank">
+  <a href="http://wa.me/+2348168794576" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
   </a>
 </div>
