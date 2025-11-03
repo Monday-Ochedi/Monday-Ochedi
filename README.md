@@ -59,7 +59,7 @@ I'm eager to leverage my expertise and passion in technology and data science in
 </div>
 
 ## Professional Experience 
-+ **Data Analyst Facilitator**
++ **(Data Analyst Facilitator)**
   ***KEEK Computers (In collaboration with the Federal Ministry of Education and The World Bank)***
   *October 2024 – January 2025*
   - Engineered and delivered a comprehensive data analytics training program to 100+ participants, 
@@ -70,16 +70,16 @@ I'm eager to leverage my expertise and passion in technology and data science in
 
 + **Data Analyst**
   ***SkyHUB Nigeria – Makurdi, Benue State***
-  *June 2024 – January 2025*
+  *(June 2024 – January 2025)*
   - Retrieved insights using Excel, SQL, and Power BI to craft real-time reports, slashing data 
   analysis time by 30% and empowering stakeholders to make informed strategic decisions. 
   - Spearheaded exploratory data analysis on raw datasets, pinpointing critical trends and 
   consequently elevating data accuracy by 25%; worked directly with cross-functional teams 
   designing interactive dashboards.
 
-**Data Analyst**
++ **Data Analyst**
   ***MeriSkill – Noida, Uttar Pradesh***
-  *January 2024 – February 2024*
+  *(January 2024 – February 2024)*
   - Conducted data analysis on Sales, HR Analytics, and Diabetes Prediction datasets to uncover 
   trends, improve forecasting accuracy, and drive data-informed decisions. 
   - Utilized Excel, Power BI, and Python to clean and process 500,000+ data points, develop a 
