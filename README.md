@@ -59,9 +59,9 @@ I'm eager to leverage my expertise and passion in technology and data science in
 </div>
 
 ## Professional Experience 
-+ **(Data Analyst Facilitator)**
++ **Data Analyst Facilitator**
   ***KEEK Computers (In collaboration with the Federal Ministry of Education and The World Bank)***
-  *October 2024 – January 2025*
+  *(October 2024 – January 2025)*
   - Engineered and delivered a comprehensive data analytics training program to 100+ participants, 
   leading curriculum development, session planning, and hands-on workshops that resulted in a 
   95% satisfaction rate.
