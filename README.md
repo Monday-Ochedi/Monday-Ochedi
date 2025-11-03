@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my World!
+## Hi There 👋 Welcome To My World!
 
 Data Enthusiast | Python, SQL, Power BI, ML | Building intelligent data solutions | Passionate about automation, analytics & real-world insights
 
@@ -36,7 +36,11 @@ My projects demonstrate my strong ability to apply data-driven insights to solve
 I'm eager to leverage my expertise and passion in technology and data science in general, driving innovation and growth through data-driven insights.
 
 
-###
+## Tecnhical Skills
+• Programming: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL. 
+• Business Intelligence Tools: Power BI, Tableau, Excel (Power Query, Pivot Table, Power Pivot) 
+• Database Management: MySQL, PostgreSQL, MS SQL Server. 
+• Analytics: ETL Processes, Data Modeling, Feature Engineering, Predictive Modeling.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
