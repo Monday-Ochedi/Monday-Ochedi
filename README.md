@@ -23,7 +23,17 @@ Data Enthusiast | Python, SQL, Power BI, ML | Building intelligent data solution
   </a>
 </div>
 
-###
+## About Me
+Hello, I’m a passionate and experienced Data enthusiast with expertise in Data Analytics, Data Visualization and Predictive Modeling. I empower businesses to drive growth by deriving actionable insights with data; optimizing performance to boost productivity.
+
+With a strong foundation and proficiency in Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Power BI, and Excel,, I've tackled complex problems across several industries such developing a diabetes predictive system for healthcare, designing dynamic and interactive dashboards and reports for finance, a proven track record of delivering impactful data solutions across other sectors.
+
+I’ve worked on several projects with esteemed organizations and companies to make business driven decisions.
+Notably, I‘ve worked with The World Bank as a Data Analyst Facilitator in training, managing and instructing over 100 students at KEEK Computers (in collaboration with the Federal Ministry of Education) with a 95% success rate, and also at SkyHUB Nigeria, where I've developed analytical frameworks, curriculum, created interactive dashboards, and implemented predictive models that improved business efficiency by up to 30%.
+
+My projects demonstrate my strong ability to apply data-driven insights to solve practical problems. I have designed and deployed professional-grade machine learning apps on streamlit and interactive dashboards on Power BI and have earned certifications in Machine Learning with Python (Anaconda) and Data Analytics (Microsoft, LinkedIn, BCG, and Quantium).
+
+I'm eager to leverage my expertise and passion in technology and data science in general, driving innovation and growth through data-driven insights.
 
 
 ###
