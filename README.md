@@ -37,10 +37,10 @@ I'm eager to leverage my expertise and passion in technology and data science in
 
 
 ## Tecnhical Skills
-• Programming: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL. 
-• Business Intelligence Tools: Power BI, Tableau, Excel (Power Query, Pivot Table, Power Pivot) 
-• Database Management: MySQL, PostgreSQL, MS SQL Server. 
-• Analytics: ETL Processes, Data Modeling, Feature Engineering, Predictive Modeling.
+- Programming: Python (Pandas, NumPy, Matplotlib, Scikit-learn), SQL.
+- Business Intelligence Tools: Power BI, Tableau, Excel (Power Query, Pivot Table, Power Pivot).
+- Database Management: MySQL, PostgreSQL, MS SQL Server.
+- Analytics: ETL Processes, Data Modeling, Feature Engineering, Predictive Modeling.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
