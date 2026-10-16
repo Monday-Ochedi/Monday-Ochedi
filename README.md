@@ -136,3 +136,51 @@ I am particularly open to **research collaborations, graduate research opportuni
 - Analyzed sales, HR analytics, and diabetes prediction datasets using **Python, Excel, and Power BI** to identify trends and generate actionable insights.
 - Processed **500,000+ data points**, developed predictive models, and designed interactive dashboards to communicate key performance indicators.
 - Improved forecasting accuracy by **25%** and reduced data processing time by **40%**; received a **Certificate and Letter of Recommendation** for analytical contributions.
+
+
+## 🏆 Certifications & Achievements
+
+### 🎓 Professional Certifications
+
+- 🤖 **Machine Learning with Python Professional Certificate**  
+  *Anaconda | October 2025*  
+  Supervised and unsupervised learning, predictive modeling, model evaluation, and machine learning optimization using Python.
+
+- 🗄️ **Advanced MySQL Database Administration**  
+  *Maven Analytics | November 2025*  
+  Advanced SQL, database optimization, indexing, query performance tuning, and efficient management of large datasets.
+
+- 📊 **Career Essentials in Data Analysis**  
+  *Microsoft & LinkedIn | October 2025*  
+  Data analysis, data cleaning, visualization, business intelligence, and analytical decision-making.
+
+- 👨‍💼 **Leadership and Management for Tech Professionals**  
+  *LinkedIn Learning | September 2025*  
+  Leadership, strategic decision-making, project management, and technology team management.
+
+### 💼 Industry Experience & Virtual Job Simulations
+
+- 📈 **Quantium Data Analytics Job Simulation**  
+  *Forage | April 2025*  
+  Applied customer analytics, data preparation, statistical analysis, and uplift testing to practical business scenarios.
+
+- 🧠 **BCG Data Science Job Simulation**  
+  *Forage | March 2025*  
+  Explored customer churn prediction, statistical analysis, and data-driven customer retention strategies using Python.
+
+- 📉 **Data Analysis Certification & Letter of Recommendation**  
+  *MeriSkill | February 2024*  
+  Recognized for analytical contributions involving data cleaning, predictive modeling, exploratory analysis, and interactive visualization.
+
+### 🌟 Selected Achievements
+
+- 🏅 **95% Participant Satisfaction:** Designed and delivered practical data analytics training to over **100 participants** through KEEK Computers under a Federal Ministry of Education and World Bank collaboration.
+
+- 📊 **30% Faster Data Analysis:** Developed analytical reports and dashboards at SKYHub Nigeria, reducing data analysis time by **30%**.
+
+- 🎯 **25% Improvement in Data Accuracy:** Applied exploratory data analysis and data quality assessments to improve reported data accuracy at SKYHub Nigeria.
+
+- 🔬 **Applied NLP Research:** Developed a custom Named Entity Recognition (NER) system using **spaCy, Python, and Streamlit** for automated academic citation extraction and reference validation.
+
+- ⚡ **Energy & Sustainability Analytics:** Contributing to energy intelligence research, carbon emissions analysis, and AI-supported analytics at **CWatt Solutions**.
+
