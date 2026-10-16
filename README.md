@@ -59,33 +59,41 @@ I'm eager to leverage my expertise and passion in technology and data science in
 </div>
 
 ## Professional Experience 
-+ **Data Analyst Facilitator**
-  ***KEEK Computers (In collaboration with the Federal Ministry of Education and The World Bank)***
-  *(October 2024 – January 2025)*
-  - Engineered and delivered a comprehensive data analytics training program to 100+ participants, 
-  leading curriculum development, session planning, and hands-on workshops that resulted in a 
-  95% satisfaction rate.
-  - Established skill proficiency for participants to secure roles in analytics through development in 
-  tools like Excel, Power BI, and SQL. 
++ **Associate Energy Analyst**
+  ***CWatt Solutions | Houston, Texas, USA (Remote)***
+  *May 2026 – Present*
+  - Analyze historical energy consumption, electricity generation, and CO₂ emissions data to uncover trends and support sustainability research and technical reporting.
+  - Support data validation and visualization across **6 energy and carbon dashboard areas**, improving the interpretation of energy performance and renewable energy trends.
+  - Contribute to **CWattS AI Intelligence** development using Python and advanced analytics to support energy intelligence, technology assessment, and data-driven engineering decisions.
 
 + **Data Analyst**
   ***SkyHUB Nigeria – Makurdi, Benue State***
-  *(June 2024 – January 2025)*
-  - Retrieved insights using Excel, SQL, and Power BI to craft real-time reports, slashing data 
-  analysis time by 30% and empowering stakeholders to make informed strategic decisions. 
-  - Spearheaded exploratory data analysis on raw datasets, pinpointing critical trends and 
-  consequently elevating data accuracy by 25%; worked directly with cross-functional teams 
-  designing interactive dashboards.
+  *June 2024 – Present*
+  - Analyze operational datasets using **SQL, Excel, and Power BI**, developing actionable reports that reduced data analysis time by **30%**.
+  - Perform exploratory data analysis (EDA), data cleaning, and quality assessments, identifying anomalies and improving reported data accuracy by **25%**.
+  - Design interactive Power BI dashboards and collaborate with cross-functional teams to transform complex datasets into meaningful business insights.
+
+
++ **Undergraduate Researcher | Natural Language Processing**
+  ***Federal University of Technology, Minna | Nigeria***
+  *July 2025 – October 2025*
+  - Developed a citation extraction and reference-checking system using **custom Named Entity Recognition (NER)** to identify citations in unstructured academic documents.
+  - Trained and evaluated a custom **spaCy NLP model**, applying precision, recall, and F1-score metrics to assess citation identification and classification.
+  - Built an interactive **Streamlit application** supporting PDF and DOCX processing, automated citation extraction, and reference validation.
+
+
++ **Data Analyst Facilitator**
+  ***KEEK Computers | Federal Ministry of Education & World Bank Collaboration***
+  *October 2024 – January 2025*
+  - Designed and delivered practical data analytics training to **100+ participants**, achieving a **95% participant satisfaction rate**.
+  - Developed structured training materials and facilitated hands-on sessions in **Microsoft Excel, SQL, and Power BI**.
+  - Guided participants through data cleaning, exploratory analysis, dashboard development, and practical reporting workflows.
+
 
 + **Data Analyst**
-  ***MeriSkill – Noida, Uttar Pradesh***
-  *(January 2024 – February 2024)*
-  - Conducted data analysis on Sales, HR Analytics, and Diabetes Prediction datasets to uncover 
-  trends, improve forecasting accuracy, and drive data-informed decisions. 
-  - Utilized Excel, Power BI, and Python to clean and process 500,000+ data points, develop a 
-  predictive model, and created interactive dashboards that enhanced visibility into key 
-  performance metrics, presented findings to stakeholders 
-  - Increased forecasting accuracy by 25%, reduced data processing time by 40%, and boosted 
-  operational efficiency, leading to optimized business performance. Earned a Certificate and Letter 
-  of Recommendation for outstanding analytical contributions.
+  ***MeriSkill | Noida, Uttar Pradesh, India (Remote)***
+  *January 2024 – February 2024*
+  - Analyzed sales, HR analytics, and diabetes prediction datasets using **Python, Excel, and Power BI** to identify trends and generate actionable insights.
+  - Processed **500,000+ data points**, developed predictive models, and designed interactive dashboards to communicate key performance indicators.
+  - Improved forecasting accuracy by **25%** and reduced data processing time by **40%**; received a **Certificate and Letter of Recommendation** for analytical contributions.
 
