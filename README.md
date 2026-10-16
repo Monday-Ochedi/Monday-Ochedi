@@ -138,9 +138,30 @@ I am particularly open to **research collaborations, graduate research opportuni
 - Improved forecasting accuracy by **25%** and reduced data processing time by **40%**; received a **Certificate and Letter of Recommendation** for analytical contributions.
 
 
-## 🏆 Certifications & Achievements
 
-### 🎓 Professional Certifications
+## 🎓 Education, Certifications & Achievements
+
+### 🎓 Academic Background
+
+**Bachelor of Technology (B.Tech.) in Computer Science**  
+🏛️ **Federal University of Technology, Minna (FUT Minna), Nigeria**  
+📅 **Graduated:** December 2025  
+📊 **CGPA:** 4.21/5.00
+
+**Undergraduate Research Thesis:**  
+*Development of Citation Extraction and Reference Checking System Using Custom Named Entity Recognition*
+
+**Research Supervisor:** Dr. S. A. Bashir
+
+**Research Highlights:**
+- Developed a custom **Named Entity Recognition (NER)** model using Python and spaCy to identify and classify citations in academic documents.
+- Built an interactive **Streamlit application** for automated citation extraction and reference validation from PDF and DOCX files.
+- Applied **Natural Language Processing (NLP), machine learning, information extraction, and document intelligence** techniques.
+- Evaluated model performance using **precision, recall, and F1-score** to assess citation identification and classification.
+
+---
+
+### 🏅 Professional Certifications
 
 - 🤖 **Machine Learning with Python Professional Certificate**  
   *Anaconda | October 2025*  
@@ -158,6 +179,8 @@ I am particularly open to **research collaborations, graduate research opportuni
   *LinkedIn Learning | September 2025*  
   Leadership, strategic decision-making, project management, and technology team management.
 
+---
+
 ### 💼 Industry Experience & Virtual Job Simulations
 
 - 📈 **Quantium Data Analytics Job Simulation**  
@@ -172,6 +195,8 @@ I am particularly open to **research collaborations, graduate research opportuni
   *MeriSkill | February 2024*  
   Recognized for analytical contributions involving data cleaning, predictive modeling, exploratory analysis, and interactive visualization.
 
+---
+
 ### 🌟 Selected Achievements
 
 - 🏅 **95% Participant Satisfaction:** Designed and delivered practical data analytics training to over **100 participants** through KEEK Computers under a Federal Ministry of Education and World Bank collaboration.
@@ -183,4 +208,3 @@ I am particularly open to **research collaborations, graduate research opportuni
 - 🔬 **Applied NLP Research:** Developed a custom Named Entity Recognition (NER) system using **spaCy, Python, and Streamlit** for automated academic citation extraction and reference validation.
 
 - ⚡ **Energy & Sustainability Analytics:** Contributing to energy intelligence research, carbon emissions analysis, and AI-supported analytics at **CWatt Solutions**.
-
