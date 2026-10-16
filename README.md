@@ -23,17 +23,53 @@ Data Enthusiast | Python, SQL, Power BI, ML | Building intelligent data solution
   </a>
 </div>
 
-## About Me
-Hello, I’m a passionate and experienced Data enthusiast with expertise in Data Analytics, Data Visualization and Predictive Modeling. I empower businesses to drive growth by deriving actionable insights with data; optimizing performance to boost productivity.
 
-With a strong foundation and proficiency in Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Power BI, and Excel,, I've tackled complex problems across several industries such developing a diabetes predictive system for healthcare, designing dynamic and interactive dashboards and reports for finance, a proven track record of delivering impactful data solutions across other sectors.
+## 👨‍💻 About Me
 
-I’ve worked on several projects with esteemed organizations and companies to make business driven decisions.
-Notably, I‘ve worked with The World Bank as a Data Analyst Facilitator in training, managing and instructing over 100 students at KEEK Computers (in collaboration with the Federal Ministry of Education) with a 95% success rate, and also at SkyHUB Nigeria, where I've developed analytical frameworks, curriculum, created interactive dashboards, and implemented predictive models that improved business efficiency by up to 30%.
+Hello! I'm **Monday Ugbedeojo Ochedi**, a **Data Analyst, AI & Data Science Researcher, and Associate Energy Analyst** with a background in Computer Science and a strong interest in transforming complex data into intelligent, actionable solutions.
 
-My projects demonstrate my strong ability to apply data-driven insights to solve practical problems. I have designed and deployed professional-grade machine learning apps on streamlit and interactive dashboards on Power BI and have earned certifications in Machine Learning with Python (Anaconda) and Data Analytics (Microsoft, LinkedIn, BCG, and Quantium).
+My work sits at the intersection of **Data Science, Artificial Intelligence, Business Intelligence, and Applied Research**, where I combine analytical thinking, statistical techniques, and modern technologies to solve real-world challenges. I am particularly interested in building intelligent systems that go beyond traditional reporting to support prediction, automation, informed decision-making, and sustainable development.
 
-I'm eager to leverage my expertise and passion in technology and data science in general, driving innovation and growth through data-driven insights.
+With practical experience in **Python, SQL, Power BI, Excel, Scikit-learn, spaCy, Pandas, and NumPy**, I have worked across multiple domains, including **energy and sustainability, business analytics, healthcare analytics, and natural language processing (NLP)**. My expertise spans the complete data lifecycle, from data acquisition, cleaning, and exploratory analysis to predictive modeling, interactive visualization, and application development.
+
+### 🔬 Research & Artificial Intelligence
+
+My research interests focus on **Artificial Intelligence, Machine Learning, Natural Language Processing, Information Extraction, and Responsible AI**.
+
+As an undergraduate researcher at the **Federal University of Technology, Minna**, I developed a **Citation Extraction and Reference Checking System using Custom Named Entity Recognition (NER)**.
+
+This research involved training a custom **spaCy NLP model** to identify and classify academic citations, implementing rule-based post-processing techniques, and developing an interactive **Streamlit application** capable of extracting and validating citations from PDF and DOCX documents.
+
+Through this work, I gained hands-on experience in **data annotation, machine learning model development, document intelligence, information extraction, and model evaluation using precision, recall, and F1-score**.
+
+### ⚡ Energy Analytics & Sustainability
+
+Currently, I work as an **Associate Energy Analyst at CWatt Solutions, Houston, Texas (Remote)**, contributing to energy intelligence and sustainability-focused analytical initiatives.
+
+My responsibilities involve analyzing historical energy consumption, electricity generation, and carbon emissions datasets, supporting the development of energy and carbon dashboards, and contributing to **CWattS AI Intelligence** through Python-based analytical research.
+
+This experience continues to strengthen my interest in applying **AI, advanced analytics, and data-driven technologies to energy optimization, sustainability, and engineering decision-making**.
+
+### 📊 Professional Experience & Impact
+
+Beyond research, I have practical experience translating complex datasets into meaningful business insights and measurable outcomes.
+
+At **SKYHub Nigeria**, I apply **SQL, Excel, and Power BI** to analyze operational data, develop interactive dashboards, and deliver analytical reports that have contributed to a **30% reduction in data analysis time** and a **25% improvement in reported data accuracy**.
+
+I also served as a **Data Analyst Facilitator at KEEK Computers**, through a training initiative conducted in collaboration with the **Federal Ministry of Education and the World Bank**. In this role, I designed and delivered practical data analytics training to **100+ participants**, covering Excel, SQL, Power BI, data visualization, and analytical problem-solving, achieving a **95% participant satisfaction rate**.
+
+My earlier analytical experience with **MeriSkill** involved exploring sales, HR, and healthcare-related datasets, developing predictive models, and designing dashboards to uncover trends and communicate actionable insights.
+
+### 🎯 My Focus & Aspirations
+
+I am continuously expanding my expertise in **Machine Learning, Applied AI, Data Engineering, Business Intelligence, and Intelligent Analytics**, with a growing interest in research that connects computational intelligence with practical industry challenges.
+
+My long-term goal is to contribute to the development of **reliable, responsible, and impactful AI-driven systems**, advance interdisciplinary research, and help organizations make smarter decisions through data.
+
+I am particularly open to **research collaborations, graduate research opportunities, data science projects, AI/ML initiatives, and analytical roles** where I can contribute, learn, and create meaningful impact.
+
+**I believe the real value of data lies not simply in understanding what has happened, but in using that understanding to predict, innovate, and build better solutions.**
+
 
 
 ## Tecnhical Skills
@@ -58,42 +94,45 @@ I'm eager to leverage my expertise and passion in technology and data science in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-## Professional Experience 
-+ **Associate Energy Analyst**
-  ***CWatt Solutions | Houston, Texas, USA (Remote)***
-  *May 2026 – Present*
-  - Analyze historical energy consumption, electricity generation, and CO₂ emissions data to uncover trends and support sustainability research and technical reporting.
-  - Support data validation and visualization across **6 energy and carbon dashboard areas**, improving the interpretation of energy performance and renewable energy trends.
-  - Contribute to **CWattS AI Intelligence** development using Python and advanced analytics to support energy intelligence, technology assessment, and data-driven engineering decisions.
 
-+ **Data Analyst**
-  ***SkyHUB Nigeria – Makurdi, Benue State***
-  *June 2024 – Present*
-  - Analyze operational datasets using **SQL, Excel, and Power BI**, developing actionable reports that reduced data analysis time by **30%**.
-  - Perform exploratory data analysis (EDA), data cleaning, and quality assessments, identifying anomalies and improving reported data accuracy by **25%**.
-  - Design interactive Power BI dashboards and collaborate with cross-functional teams to transform complex datasets into meaningful business insights.
+## 💼 Professional Experience
 
+### 🔹 Associate Energy Analyst
+**CWatt Solutions | Houston, Texas, USA (Remote)**  
+*May 2026 – Present*
 
-+ **Undergraduate Researcher | Natural Language Processing**
-  ***Federal University of Technology, Minna | Nigeria***
-  *July 2025 – October 2025*
-  - Developed a citation extraction and reference-checking system using **custom Named Entity Recognition (NER)** to identify citations in unstructured academic documents.
-  - Trained and evaluated a custom **spaCy NLP model**, applying precision, recall, and F1-score metrics to assess citation identification and classification.
-  - Built an interactive **Streamlit application** supporting PDF and DOCX processing, automated citation extraction, and reference validation.
+- Analyze historical energy consumption, electricity generation, and CO₂ emissions data to uncover trends and support sustainability research and technical reporting.
+- Support data validation and visualization across **6 energy and carbon dashboard areas**, improving the interpretation of energy performance and renewable energy trends.
+- Contribute to **CWattS AI Intelligence** development using Python and advanced analytics to support energy intelligence, technology assessment, and data-driven engineering decisions.
 
+### 🔹 Data Analyst
+**SKYHub Nigeria | Makurdi, Benue State, Nigeria**  
+*June 2024 – Present*
 
-+ **Data Analyst Facilitator**
-  ***KEEK Computers | Federal Ministry of Education & World Bank Collaboration***
-  *October 2024 – January 2025*
-  - Designed and delivered practical data analytics training to **100+ participants**, achieving a **95% participant satisfaction rate**.
-  - Developed structured training materials and facilitated hands-on sessions in **Microsoft Excel, SQL, and Power BI**.
-  - Guided participants through data cleaning, exploratory analysis, dashboard development, and practical reporting workflows.
+- Analyze operational datasets using **SQL, Excel, and Power BI**, developing actionable reports that reduced data analysis time by **30%**.
+- Perform exploratory data analysis (EDA), data cleaning, and quality assessments, identifying anomalies and improving reported data accuracy by **25%**.
+- Design interactive Power BI dashboards and collaborate with cross-functional teams to transform complex datasets into meaningful business insights.
 
+### 🔹 Undergraduate Researcher | Natural Language Processing
+**Federal University of Technology, Minna | Nigeria**  
+*July 2025 – October 2025*
 
-+ **Data Analyst**
-  ***MeriSkill | Noida, Uttar Pradesh, India (Remote)***
-  *January 2024 – February 2024*
-  - Analyzed sales, HR analytics, and diabetes prediction datasets using **Python, Excel, and Power BI** to identify trends and generate actionable insights.
-  - Processed **500,000+ data points**, developed predictive models, and designed interactive dashboards to communicate key performance indicators.
-  - Improved forecasting accuracy by **25%** and reduced data processing time by **40%**; received a **Certificate and Letter of Recommendation** for analytical contributions.
+- Developed a citation extraction and reference-checking system using **custom Named Entity Recognition (NER)** to identify citations in unstructured academic documents.
+- Trained and evaluated a custom **spaCy NLP model**, applying precision, recall, and F1-score metrics to assess citation identification and classification.
+- Built an interactive **Streamlit application** supporting PDF and DOCX processing, automated citation extraction, and reference validation.
 
+### 🔹 Data Analyst Facilitator
+**KEEK Computers | Federal Ministry of Education & World Bank Collaboration**  
+*October 2024 – January 2025*
+
+- Designed and delivered practical data analytics training to **100+ participants**, achieving a **95% participant satisfaction rate**.
+- Developed structured training materials and facilitated hands-on sessions in **Microsoft Excel, SQL, and Power BI**.
+- Guided participants through data cleaning, exploratory analysis, dashboard development, and practical reporting workflows.
+
+### 🔹 Data Analyst Intern
+**MeriSkill | Noida, Uttar Pradesh, India (Remote)**  
+*January 2024 – February 2024*
+
+- Analyzed sales, HR analytics, and diabetes prediction datasets using **Python, Excel, and Power BI** to identify trends and generate actionable insights.
+- Processed **500,000+ data points**, developed predictive models, and designed interactive dashboards to communicate key performance indicators.
+- Improved forecasting accuracy by **25%** and reduced data processing time by **40%**; received a **Certificate and Letter of Recommendation** for analytical contributions.
